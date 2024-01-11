@@ -1,0 +1,20 @@
+/* Bailey Simons
+Responsive Background Images
+January 8th, 2024 */
+
+body {
+    margin: 0;
+    padding: 0;
+    background: red url(cat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+h1 {
+    color: black;
+    background-color: aliceblue;
+    margin: 40px;
+    margin-right: 1040px;
+}
